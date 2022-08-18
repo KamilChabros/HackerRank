@@ -14,7 +14,7 @@ public class Main {
     }
     public static void main(String[] args) {
 
-        System.out.println("Please enter two numbers one after another, accepting by pressing enter");
+//        System.out.println("Please enter two numbers one after another, accepting by pressing enter");
         Scanner scanner = new Scanner(System.in);
         B = scanner.nextInt();
         H = scanner.nextInt();

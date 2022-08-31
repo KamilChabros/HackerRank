@@ -12,6 +12,7 @@
         <module>JavaIntToString</module>
         <module>StaticInitializationBlokcs</module>
         <module>DayOfWeekFromDate</module>
+        <module>PrintFormattedPayment</module>
     </modules>
 
     <properties>

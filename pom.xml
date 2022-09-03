@@ -13,6 +13,7 @@
         <module>StaticInitializationBlokcs</module>
         <module>DayOfWeekFromDate</module>
         <module>PrintFormattedPayment</module>
+        <module>JavaMD5EncryptionPrint</module>
     </modules>
 
     <properties>

@@ -15,6 +15,7 @@
         <module>PrintFormattedPayment</module>
         <module>JavaMD5EncryptionPrint</module>
         <module>JavaSHA256Encryption</module>
+        <module>JavaStackLiFo</module>
     </modules>
 
     <properties>

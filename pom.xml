@@ -16,6 +16,7 @@
         <module>JavaMD5EncryptionPrint</module>
         <module>JavaSHA256Encryption</module>
         <module>JavaStackLiFo</module>
+        <module>JavaHashset</module>
     </modules>
 
     <properties>

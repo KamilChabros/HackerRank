@@ -17,6 +17,7 @@
         <module>JavaSHA256Encryption</module>
         <module>JavaStackLiFo</module>
         <module>JavaHashset</module>
+        <module>JavaGenerics</module>
     </modules>
 
     <properties>

@@ -18,6 +18,7 @@
         <module>JavaStackLiFo</module>
         <module>JavaHashset</module>
         <module>JavaGenerics</module>
+        <module>JavaComparator</module>
     </modules>
 
     <properties>

@@ -19,6 +19,7 @@
         <module>JavaHashset</module>
         <module>JavaGenerics</module>
         <module>JavaComparator</module>
+        <module>JavaSort</module>
     </modules>
 
     <properties>

@@ -43,17 +43,14 @@ class Student {
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int testcases = Integer.parseInt(scanner.nextLine());
+        int noOfStudents = Integer.parseInt(scanner.nextLine());
 //        int testcases = scanner.nextInt();
         List<Student> studentList = new ArrayList<>();
-        while (testcases > 0) {
-            int id = scanner.nextInt();
-            String firstName = scanner.next();
-            double cgpa = scanner.nextDouble();
+        while (noOfStudents > 0) {
 
-            Student student = new Student(id, firstName, cgpa);
+            Student student = new Student(scanner.nextInt(),scanner.next(), scanner.nextDouble());
             studentList.add(student);
-            testcases--;
+            noOfStudents--;
         }
         Collections.sort(studentList, new Checker());
         for (Student student: studentList){
